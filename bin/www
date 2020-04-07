@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 
 /**
- * Module dependencies.
+ * Module dependenci.
  */
+
 
 const app = require('../app');
 const debug = require('debug')('record-shop:server');
